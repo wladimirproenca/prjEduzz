@@ -22,8 +22,8 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '/';
-$config['assets_url'] = '/assets/';
+$config['base_url'] = '/projetozz2/';
+$config['assets_url'] = '/projetozz2/assets/';
 
 /*
 |--------------------------------------------------------------------------
