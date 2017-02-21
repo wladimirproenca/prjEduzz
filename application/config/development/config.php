@@ -22,7 +22,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = '/projetozz2/';
+$config['base_url'] = 'http://'.$_SERVER['SERVER_NAME'].'/projetozz2/';
 $config['assets_url'] = '/projetozz2/assets/';
 
 /*
